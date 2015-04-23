@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1429699595 source:c:\users\scsa1\documents\codeblocks\testmysql\main.c
+	<stdio.h>
+	<stdio.h>
+	<include/mysql.h>
+
+1410443611 c:\xampp\mysql\include\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1410444339 c:\xampp\mysql\include\mysql_version.h
+	<custom_conf.h>
+
+1429699291 c:\xampp\mysql\include\mysql_com.h
+
+1410443611 c:\xampp\mysql\include\mysql_time.h
+
+1410443611 c:\xampp\mysql\include\my_list.h
+
+1410443611 c:\xampp\mysql\include\typelib.h
+	"my_alloc.h"
+
+1410443611 c:\xampp\mysql\include\my_alloc.h
+
+1429781825 source:c:\users\scsa1\documents\testmysql\main.c
+	<stdio.h>
+	<stdlib.h>
+	<include/mysql.h>
+
